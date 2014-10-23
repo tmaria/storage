@@ -1,0 +1,10 @@
+Available:	99.65 GB (99,645,861,888 bytes)
+  Capacity:	99.86 GB (99,860,910,080 bytes)
+  Mount Point:	/Volumes/Data
+  File System:	Journaled HFS+
+  Writable:	Yes
+  Ignore Ownership:	No
+  BSD Name:	disk0s3
+  Volume UUID:	0EE069BE-140E-33A9-81C6-8245E98ECD5C
+  Physical Drive:
+
